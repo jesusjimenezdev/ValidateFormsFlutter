@@ -1,6 +1,6 @@
 # formulario
 
-A new Flutter project.
+Un proyecto de Flutter para ver como se validan los formularios de login y despues de la validacion ir a otra pagina.
 
 ## Getting Started
 
